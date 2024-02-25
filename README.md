@@ -7,21 +7,25 @@
 <h5 align="center">I'm an enthsiastic Techie and a Developer who loves to code and passionate about Engineering Solutions for Real-World Challenges. Open for Freelance Work, thrives both solo and in collaborative environments
 </h5>
 
-
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
-
-<p align="left" >
-  <img src="https://komarev.com/ghpvc/?username=AnishSingh-007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
-  <a href="https://twitter.com/anishsingh007" target="_blank"><img src="https://img.shields.io/twitter/follow/anishsingh007?style=social" alt="Twitter"></a>
-
+  <img  align="left" src="https://komarev.com/ghpvc/?username=AnishSingh-007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+  <a  align="left" href="https://twitter.com/anishsingh007" target="_blank"><img src="https://img.shields.io/twitter/follow/anishsingh007?style=social" alt="Twitter"></a>
 
 Full Stack Web Developer
 ----------------------------------
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+<p align="left" >
+  
 ### Here is what I am working on 👋
 - 💬 Ask me about **MERN TECHNOLOGY**
 
-- 🔭 I’m currently working on building a Coaching Institute Web app! 🚀 Featuring: Mock test portal 📝, Video course integration 📹, eBook viewer 📚, Smooth book ordering 🛒, Authentication 👨
+- 🔭 I’m currently working on building a Coaching Institute Web app!
+  - 🚀 Featuring:
+    - Mock test portal 📝,
+    - Video course integration 📹,
+    - eBook viewer 📚,
+    - Smooth book ordering 🛒,
+    - Authentication 👨
 
 - 🌱 I’m currently learning: AWS.
 
